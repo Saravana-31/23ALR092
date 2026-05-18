@@ -1,4 +1,4 @@
-# Evaluation Project: Logger & vehicle Scheduler
+# Backend Project: Logger & vehicle Scheduler
 
 This repository holds the code for the backend evaluation tasks
 
